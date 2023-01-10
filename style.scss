@@ -1,4 +1,7 @@
-//Bootstrap
-@import 'node_modules/bootstrap/scss/bootstrap';
+//FONTS
+@import '/style.module.scss/typography/fonts.scss';
+//BASE
+@import '/style.module.scss/base/general';
 
-@import '/style.module.scss/general';
+//COMPONENTS
+@import '/style.module.scss/componets/header'

@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    $color-green-start: #74C69D;
+    $color-white: #FFFFFF;
+    $color-black: #000000;
+    $color-dark-grey: #212529;
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1175px;
+    width: 100%;
+    padding: 0 16px;
+}
